@@ -1,1 +1,1 @@
-Solution for ## Testing JS part 1 ## homework solution. ### BSA-2020 ###
+Solution for **Testing JS** homework solution. **BSA-2020**
